@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "colegioelitte.com.br.html",
+    "currentPage": "index.com.br.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -57,7 +57,7 @@
     "screenshot": "screenshot.png"
   },
   "pages": {
-    "colegioelitte.com.br.html": {
+    "index.com.br.html": {
       "settings": {
         "main": true,
         "title": "Colégio Elitte",
